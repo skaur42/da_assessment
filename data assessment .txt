@@ -1,0 +1,17 @@
+﻿My work is in the .ipynb file. The explanation behind my answers are the graphs plotted using the data from the csv file.
+1. What is the typical engagement rate we can expect? What's the likelihood that we can achieve a 15% engagement rate?
+To calculate the engagement rate, we need the variables Total Impressions and Total Engagements. 
+                Engagement rate = (Total Engagement / Total Impressions) * 100
+                                     = 0.1317 %                
+2. Does day of the week and time of posting affect engagement rates? 
+        Yes, the day of the week and time affects the engagement rate. Typically, there is a lower engagement rate from 9-5 due to people either being in school or at work, while 7-8am and after 5pm have a higher interaction rate due to people scrolling on their social media apps while commuting and at home. 
+3. How are our game titles doing in terms of social performance? Is there a specific game we should focus more on or less?
+        The General account is has a higher engagement rate than the game accounts. EG should focus on boosting content interaction with the gaming titles, specifically Valorent. 
+4. What media type performs the best?
+        Photos have the highest engagement rate.
+5. What is our performing campaign? 
+        Community Engagement
+6. Define out a posting strategy for our social channels based on your discoveries. 
+        Identify the platforms and channels where your target audience is most active (Facebook, Twitter, and Instagram). Find a balance between maintaining consistency and avoiding content overload. Create a content calendar to plan and organize your content. Diversify your content to keep it engaging and appealing. Include a mix of educational, entertaining, and promotional content. Research and analyze the optimal posting times for each platform, and respond to comments, messages, and tagged posts from the audience. 
+7. What suggestions would you give to the social media team if they want to expand their presence (e.g. if our CSGO youtube channel is doing well should we expand to TikTok)?
+        TikTok would be a beneficial platform to be on, for CSGO, and interacting with other creators who play the game would boost the engagement rate. There is a higher engagement rate seen on Facebook, Twitter, and Instagram. More attention needs to given into marketing on TikTok.
